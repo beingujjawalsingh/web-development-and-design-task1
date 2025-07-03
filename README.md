@@ -20,8 +20,10 @@ This project is a **responsive and modern landing page** developed as **Task 1**
 
 ## 📸 Preview
 
-![Landing Page Preview](screenshot.png)
-
+![Landing Page Preview](https://github.com/beingujjawalsingh/web-development-and-design-task1/blob/d47fbb99fc7363bc367437cc40774edbd78bdf41/Screenshot%202025-07-03%20110250.png)
+![image]()
+![image]()
+![image]()
 ---
 
 ## Project Demo Video Link
